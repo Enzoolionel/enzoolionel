@@ -1,16 +1,11 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Enzo  
+🚀 **Frontend Developer** | React | Tailwind | Next.js  
+⚡ Backend con Node.js & MongoDB | React Native  
+🔐 Explorando ciberseguridad & hardware  
+🎯 Objetivo 2025: Escalar proyectos y crecer en IT  
 
-<!--
-**Enzoolionel/enzoolionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Mis redes**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/enzo-peralta-b64132216)  
+- 🔧 [GitHub](https://github.com/enzo-peralta)  
+- 🌍 [Portafolio](https://enzo.dev)
+- 
